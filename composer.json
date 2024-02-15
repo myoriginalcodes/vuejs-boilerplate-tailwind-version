@@ -1,6 +1,6 @@
 {
     "name": "myoriginalcodes/vuejs-boilerplate-tailwind-version",
-    "version": "0.0.1-dev",
+    "version": "1.0.0-stable",
     "description": "Elasticsearch docker container - standalone version",
     "keywords": ["vuejs", "vue", "js", "tailwind", "boilerplate"],
     "type": "project",
