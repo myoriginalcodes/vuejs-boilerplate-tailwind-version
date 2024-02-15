@@ -1,0 +1,20 @@
+{
+    "name": "myoriginalcodes/vuejs-boilerplate-tailwind-version",
+    "version": "0.0.1-dev",
+    "description": "Elasticsearch docker container - standalone version",
+    "keywords": ["vuejs", "vue", "js", "tailwind", "boilerplate"],
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Edson Nascimento",
+            "email": "theoriginal@myoriginalcodes.com",
+            "role": "developer",
+            "homepage": "https://myoriginalcodes.com"
+        }
+    ],
+    "support": {
+        "email": "theoriginal@myoriginalcodes.com"
+    },
+    "minimum-stability": "stable"
+}
