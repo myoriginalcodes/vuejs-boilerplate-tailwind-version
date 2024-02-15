@@ -27,4 +27,4 @@
 *.njsproj
 *.sln
 *.sw?
-!/.env
+build
